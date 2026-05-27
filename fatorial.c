@@ -4,7 +4,7 @@
 int main()
 {
     int n = 0;
-    long resultado = 1;
+    int resultado = 1;
 
     printf("digite um numero\n");
     scanf("%d", &n);
